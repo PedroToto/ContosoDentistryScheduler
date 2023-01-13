@@ -1,1 +1,1 @@
-# ContosoDentistryScheduler
+# Contoso Dentistry cheduler
